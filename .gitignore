@@ -2,3 +2,5 @@
 debug/
 img/
 result/
+test_images/
+__pycache__/
