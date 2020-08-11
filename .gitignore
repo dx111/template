@@ -1,3 +1,4 @@
-.idea
-.debug
-.img
+.idea/
+debug/
+img/
+result/
