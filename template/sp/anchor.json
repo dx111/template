@@ -1,0 +1,38 @@
+{
+  "machine_number": {
+    "regex": "^机器编号"
+  },
+  "invoice_date": {
+    "regex": "^开票日期"
+  },
+  "payee": {
+    "regex": "^收款人"
+  },
+  "review": {
+    "regex": "^复核"
+  },
+  "drawer": {
+    "regex": "^开票人"
+  },
+  "seller": {
+    "regex": "^销售"
+  },
+  "name_of_goods_or_services": {
+    "regex": "^货物或劳务名称"
+  },
+  "specifications": {
+    "regex": "规格型号"
+  },
+  "unit": {
+    "regex": "单位"
+  },
+  "number": {
+    "regex": "数量"
+  },
+  "unit_price": {
+    "regex": "单价"
+  },
+  "tax_rate": {
+    "regex": "税率"
+  }
+}

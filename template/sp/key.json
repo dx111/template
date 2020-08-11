@@ -1,0 +1,81 @@
+{
+  "machine_number_value": {
+    "name": "机器编号"
+  },
+  "invoice_code": {
+    "name": "发票代码"
+  },
+
+  "invoice_date_value": {
+    "name": "开票日期"
+  },
+  "p1_name_value": {
+    "name": "购买方名称"
+  },
+  "p1_address_value": {
+    "name": "购买方地址"
+  },
+  "p1_bank_value": {
+    "name": "购买方开户行"
+  },
+  "p1_id_value": {
+    "name":"购买方纳税人识别号"
+  },
+  "p2_name_value": {
+    "name":"销售方名称"
+  },
+  "p2_id_value": {
+    "name":"销售方纳税人识别号"
+  },
+  "p2_address_value": {
+    "name":"销售方地址"
+  },
+  "p2_bank_value": {
+    "name":"销售方开户行"
+  },
+  "payee_value": {
+    "name":"收款人"
+  },
+  "review_value": {
+    "name":"复核"
+  },
+  "drawer_value": {
+    "name":"开票人"
+  },
+  "total_pre_money": {
+    "name":"税前总额"
+  },
+  "total_tax": {
+    "name":"税额"
+  },
+  "total_money": {
+    "name":"价税合计"
+  },
+  "goods_1_name": {
+    "name":"货物名称"
+  },
+  "goods_1_spec": {
+    "name":"规格型号"
+  },
+  "goods_1_uint": {
+    "name":"货物单价"
+  },
+  "goods_1_count": {
+    "name":"货物数量"
+  },
+  "goods_1_per_price": {
+    "name":"单价"
+  },
+  "goods_1_money": {
+    "name":"货物单价"
+  },
+  "goods_1_tax_rate": {
+    "name":"货物税率"
+  },
+  "goods_1_tax_money": {
+    "name":"货物税额"
+  },
+  "total_money_upper": {
+    "name":"大写金额"
+  }
+}
