@@ -12,6 +12,8 @@ key_json_file = "template/sp/key.json"
 position_xml_file = "template/sp/1.xml"
 template_jpg_file = "C:\\Users\\dx\\PycharmProjects\\template_ocr\\template\\sp\\template.jpg"
 Debug = False
+from PIL import Image
+img=Image.Image.
 
 
 class SpecialInvoice(object):
